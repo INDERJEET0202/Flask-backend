@@ -76,7 +76,6 @@ oauthlib
 opencv-python
 opencv-python-headless
 opt-einsum
-packagin
 pandas
 Pillow
 proto-plus
